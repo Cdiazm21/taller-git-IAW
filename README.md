@@ -21,7 +21,7 @@ ejemplo de codigo python:
 nombre = input("Dime tu nombre")
 print(f "Hola{Nombre}")
 ```
- para una imagen [![](https://educacionadistancia.juntadeandalucia.es/centros/almeria/pluginfile.php/1/theme_moove/logo_right/1663677579/logo_junta.svg)]
+ para una imagen [! [](https://educacionadistancia.juntadeandalucia.es/centros/almeria/pluginfile.php/1/theme_moove/logo_right/1663677579/logo_junta.svg)]
 (https://educacionadistancia.juntadeandalucia.es/centros/almeria/my/)
 ## Sintaxis menos utilizada
 
@@ -33,3 +33,6 @@ Este texto no es una cita
 ## Referencias
 [Moodle centros Almeria](https://educacionadistancia.juntadeandalucia.es/centros/almeria/my/)
 
+[! [](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)
+
+[Enlace al documento A](documentoA.md)

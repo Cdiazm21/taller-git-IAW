@@ -21,8 +21,22 @@ ejemplo de codigo python:
 nombre = input("Dime tu nombre")
 print(f "Hola{Nombre}")
 ```
- para una imagen [! [](https://educacionadistancia.juntadeandalucia.es/centros/almeria/pluginfile.php/1/theme_moove/logo_right/1663677579/logo_junta.svg)]
+ para una imagen [![](https://educacionadistancia.juntadeandalucia.es/centros/almeria/pluginfile.php/1/theme_moove/logo_right/1663677579/logo_junta.svg)]
 (https://educacionadistancia.juntadeandalucia.es/centros/almeria/my/)
+
+las listas
+* Lista 1
+* Lista 2
+  * Lista 3
+  
+Las tablas
+
+| Encabezado 1 |Encabezado 2 |Encabezado 3
+| --- | --- | --- | ---
+| FIla 1.1 | Fila 1.2 | Fila 1.3
+| FIla 2.1 | Fila 2.2 | Fila 2.3
+| FIla 3.1 | Fila 3.2 | Fila 3.3
+
 ## Sintaxis menos utilizada
 
 ~Esto esta tachado~
